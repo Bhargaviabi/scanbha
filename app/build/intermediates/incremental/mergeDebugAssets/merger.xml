@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":openCVLibrary310"><source path="D:\Goda projects\Document-Scanner-master\openCVLibrary310\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\Goda projects\Document-Scanner-master\app\src\main\assets"/><source path="D:\Goda projects\Document-Scanner-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Goda projects\Document-Scanner-master\app\src\debug\assets"/></dataSet></merger>

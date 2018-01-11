@@ -1,0 +1,1 @@
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"armeabi-v7a"}],"versionCode":2003},"path":"app-armeabi-v7a-debug.apk","properties":{"packageId":"com.myapps.documentscanner","split":"","minSdkVersion":"19"}}]

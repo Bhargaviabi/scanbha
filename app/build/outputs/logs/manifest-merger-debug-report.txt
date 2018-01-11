@@ -1,0 +1,529 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ee6d65ab95b07b8ebe163fd73923960e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\fab-toolbar-1.2.0.aar\dc565b559bf7d8099bbabe7d5c3c60e7\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\5ef6dcb55b4e2b0b7fc9a7d1b16d8ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-vision:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.2.1.aar\ae240aacfe45c90b24a048dc40418b83\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.2.1.aar\33eab839b83408915e208117fd69274c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.2.1.aar\182760946d2864811ec9646af48b198c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.2.1.aar\38bfa3a6e44f62ee3e0d55618813dddb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\0b5b29f1f1b8f4cecfed3d365feb3a4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.afollestad:drag-select-recyclerview:0.3.6] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\drag-select-recyclerview-0.3.6.aar\40105d77b1003d4fac87d131525c4d8c\AndroidManifest.xml:2:1-14:12
+MERGED from [:openCVLibrary310] D:\Goda projects\Document-Scanner-master\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\3ae9d8115fbb0938a20731276c60de76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\352a84460d58d757cb8814c2a3606221\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\fd4204a87705d31a9be530b4740f60b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ba8f2d0cd687653c3255fb80cbd5b5e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\7faaa49f24acbdf445fabc67fa609983\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\bb1792e210265e177f17e835bee83138\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\4b6d1ae07415cdab9557c3ad3da690a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7aaf91684cd7ac58f244c304d6308d4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\e38ade7054a4fad94073747cab5f4f10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+	package
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:1-158:12
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ee6d65ab95b07b8ebe163fd73923960e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ee6d65ab95b07b8ebe163fd73923960e\AndroidManifest.xml:20:5-44
+MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\fab-toolbar-1.2.0.aar\dc565b559bf7d8099bbabe7d5c3c60e7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\fab-toolbar-1.2.0.aar\dc565b559bf7d8099bbabe7d5c3c60e7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\5ef6dcb55b4e2b0b7fc9a7d1b16d8ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\5ef6dcb55b4e2b0b7fc9a7d1b16d8ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.2.1.aar\ae240aacfe45c90b24a048dc40418b83\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.2.1.aar\ae240aacfe45c90b24a048dc40418b83\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.2.1.aar\33eab839b83408915e208117fd69274c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.2.1.aar\33eab839b83408915e208117fd69274c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.2.1.aar\182760946d2864811ec9646af48b198c\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.2.1.aar\182760946d2864811ec9646af48b198c\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.2.1.aar\38bfa3a6e44f62ee3e0d55618813dddb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.2.1.aar\38bfa3a6e44f62ee3e0d55618813dddb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\0b5b29f1f1b8f4cecfed3d365feb3a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\0b5b29f1f1b8f4cecfed3d365feb3a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad:drag-select-recyclerview:0.3.6] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\drag-select-recyclerview-0.3.6.aar\40105d77b1003d4fac87d131525c4d8c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad:drag-select-recyclerview:0.3.6] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\drag-select-recyclerview-0.3.6.aar\40105d77b1003d4fac87d131525c4d8c\AndroidManifest.xml:8:5-10:41
+MERGED from [:openCVLibrary310] D:\Goda projects\Document-Scanner-master\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary310] D:\Goda projects\Document-Scanner-master\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\3ae9d8115fbb0938a20731276c60de76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\3ae9d8115fbb0938a20731276c60de76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\352a84460d58d757cb8814c2a3606221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\352a84460d58d757cb8814c2a3606221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\fd4204a87705d31a9be530b4740f60b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\fd4204a87705d31a9be530b4740f60b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ba8f2d0cd687653c3255fb80cbd5b5e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ba8f2d0cd687653c3255fb80cbd5b5e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\7faaa49f24acbdf445fabc67fa609983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\7faaa49f24acbdf445fabc67fa609983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\bb1792e210265e177f17e835bee83138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\bb1792e210265e177f17e835bee83138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\4b6d1ae07415cdab9557c3ad3da690a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\4b6d1ae07415cdab9557c3ad3da690a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7aaf91684cd7ac58f244c304d6308d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7aaf91684cd7ac58f244c304d6308d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\e38ade7054a4fad94073747cab5f4f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\e38ade7054a4fad94073747cab5f4f10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:15:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:22:22-76
+application
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:24:5-156:19
+MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\fab-toolbar-1.2.0.aar\dc565b559bf7d8099bbabe7d5c3c60e7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\fab-toolbar-1.2.0.aar\dc565b559bf7d8099bbabe7d5c3c60e7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.2.1.aar\ae240aacfe45c90b24a048dc40418b83\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.2.1.aar\ae240aacfe45c90b24a048dc40418b83\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.2.1.aar\33eab839b83408915e208117fd69274c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.2.1.aar\33eab839b83408915e208117fd69274c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.2.1.aar\182760946d2864811ec9646af48b198c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.2.1.aar\182760946d2864811ec9646af48b198c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.2.1.aar\38bfa3a6e44f62ee3e0d55618813dddb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.2.1.aar\38bfa3a6e44f62ee3e0d55618813dddb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:20:5-24:19
+MERGED from [com.afollestad:drag-select-recyclerview:0.3.6] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\drag-select-recyclerview-0.3.6.aar\40105d77b1003d4fac87d131525c4d8c\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad:drag-select-recyclerview:0.3.6] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\drag-select-recyclerview-0.3.6.aar\40105d77b1003d4fac87d131525c4d8c\AndroidManifest.xml:12:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:30:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:28:9-43
+	android:fullBackupContent
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:27:9-42
+	android:largeHeap
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:31:9-33
+	android:icon
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:33:9-47
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:25:9-51
+receiver#com.myapps.documentscanner.WidgetProvider
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:35:19-48
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:36:13-38:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:37:17-84
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:37:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:39:13-41:62
+	android:resource
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:41:17-59
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:40:17-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:44:9-46:35
+	android:value
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:46:13-32
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:45:13-70
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:enabled
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:54:13-35
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:53:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:56:17-94
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:56:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:60:9-63:40
+	android:enabled
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:61:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:exported
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:70:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:72:13-74:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:73:17-79
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:73:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:77:9-92
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:77:18-89
+activity#com.myapps.documentscanner.DocumentScannerActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:79:9-96:20
+	android:screenOrientation
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:82:13-68
+	android:configChanges
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:84:13-63
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:80:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:86:13-90:29
+action#android.intent.action.MAIN
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:87:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:89:17-77
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:89:27-74
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:91:13-95:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:92:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:94:17-76
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:94:27-73
+activity#com.myapps.documentscanner.GalleryGridActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:97:9-106:20
+	android:screenOrientation
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:100:13-59
+	android:configChanges
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:99:13-74
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:102:13-51
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:98:13-48
+intent-filter#android.intent.action.MAIN
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:103:13-105:29
+activity#com.myapps.documentscanner.SavedTextsList
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:107:9-116:20
+	android:parentActivityName
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:111:13-61
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:109:13-53
+	android:launchMode
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:110:13-44
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:112:13-51
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:108:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:113:13-115:55
+	android:value
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:115:17-52
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:114:17-63
+provider#com.myapps.documentscanner.data.TextProvider
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:119:9-121:64
+	android:authorities
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:121:13-61
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:120:13-72
+activity#com.myapps.documentscanner.TextDetailActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:123:9-131:20
+	android:parentActivityName
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:126:13-57
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:125:13-53
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:127:13-51
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:124:13-47
+activity#com.myapps.documentscanner.FullScreenViewActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:133:9-136:54
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:135:13-62
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:136:13-51
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:134:13-51
+activity#com.myapps.documentscanner.SettingsActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:137:9-140:47
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:139:13-45
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:140:13-44
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:138:13-45
+activity#com.myapps.documentscanner.OcrCaptureActivity
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:141:9-150:20
+	android:parentActivityName
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:144:13-66
+	android:label
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:143:13-38
+	android:theme
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:145:13-44
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:142:13-47
+meta-data#com.google.android.gms.version
+ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:152:9-154:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.2.1.aar\eaab6199b7abc505bc7ecb38fa36be9c\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:154:13-66
+	android:name
+		ADDED from D:\Goda projects\Document-Scanner-master\app\src\main\AndroidManifest.xml:153:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.2.1.aar\663690ceee930d4ec728333c65b7456a\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.2.1.aar\129f18e614b490cbf203267ab3971612\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.2.1.aar\c470b4b8e59fe17848d97d3de3b43cf1\AndroidManifest.xml:20:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.2.1.aar\61aec08dee3dd45e2ec4a6dd0500048d\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.2.1.aar\bc2e86f6c04e4f9b90b8eb79483f9ea3\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:25:17-71
+permission#com.myapps.documentscanner.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:28:22-76
+uses-permission#com.myapps.documentscanner.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:36:13-40:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.myapps.documentscanner
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:39:27-58
+category#com.myapps.documentscanner
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.2.1.aar\b6f731d83f9f5e9649184af296ef410a\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.2.1.aar\2b2c101e9b344eef534abf97e27cba87\AndroidManifest.xml:9:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pc1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b17af35ee7f533fa54fc05d80f6456b9\AndroidManifest.xml:26:13-58
